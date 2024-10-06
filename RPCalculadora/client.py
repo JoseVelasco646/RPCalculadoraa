@@ -12,3 +12,4 @@ print("Result of 2 * 3 is:", result)
 
 result = proxy.div(2, 10)
 print("Result of 2 / 3 is:", result)
+ 
