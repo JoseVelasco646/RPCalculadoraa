@@ -36,5 +36,6 @@ def main():
         else:
             print("Elección no válida. Intenta de nuevo.")
 
+
 if __name__ == "__main__":
     main()
